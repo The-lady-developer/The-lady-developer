@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Manvi! Welcome to my world! 
+I am Manvi. Welcome to my world! 
 <!--
 **The-lady-developer/The-lady-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - :kissing_smiling_eyes: I love to code, design & empower others.
