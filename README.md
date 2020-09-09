@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+[![HitCount](http://hits.dwyl.com/The-lady-developer/The-lady-developer.svg)](http://hits.dwyl.com/The-lady-developer/The-lady-developer)
+
 I am Manvi. Welcome to my world! 
 <!--
 **The-lady-developer/The-lady-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
