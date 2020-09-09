@@ -1,6 +1,14 @@
 ### Hi there 👋 
+I am Manvi. Welcome to my world! 
 
-[![HitCount](http://hits.dwyl.com/The-lady-developer/The-lady-developer.svg)](http://hits.dwyl.com/The-lady-developer/The-lady-developer)
+<a href="https://medium.com/@manvisinghwal">
+  <img align="left" alt="Manvi Singhwal | Medium" width="20px" src="https://icons8.com/icon/21634/medium" />
+</a>
+<a href="https://twitter.com/manvisinghwal">
+  <img align="left" alt="Manvi Singhwal | Twitter" width="21px" src="https://icons8.com/icon/13963/twitter" />
+</a>
+<br />
+<br />
 
 I am Manvi. Welcome to my world! 
 <!--
